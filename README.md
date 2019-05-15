@@ -1,6 +1,9 @@
 # Bootcamp
 
 The following instructions only apply to linux users
+Some cheat sheets:
+Conda: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+jupyter: https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
 
 ## Python
 Open terminal, Type
@@ -29,8 +32,6 @@ If you are using Mac, the export path would usually be added automatically. Chec
 export PATH="...$PATH"
 ```
 You are good to go!
-
-Conda cheat sheet: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
 ### Virtual Environment
 - Create environment
@@ -72,9 +73,8 @@ import LIB
 ### Jupyter
 WHY? easy to share and interact with the code
 
-jupyter cheat sheet: https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
-
 Highlights:
 - Shift-Enter -> run cell, select below
 - Command-S -> save
-- If your kenel is stuck in the middle of the process, make sure you "Save" first then click "close and halt" under "File" tab
+Notes:
+If your kenel is stuck in the middle of the process, make sure you "Save" first then click "close and halt" under "File" tab
