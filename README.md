@@ -37,6 +37,7 @@ export PATH="...$PATH"
 You are good to go!
 
 ### Virtual Environment
+WHY? easy to perform version control
 - Create environment
 ```
 conda create --name YOUR_ENV_NAME INITIAL_LIB
@@ -77,7 +78,7 @@ import LIB
 ### Jupyter
 WHY? easy to share and interact with the code
 
-Highlights:
+Shortcuts:
 - Shift-Enter -> run cell, select below
 - Command-S -> save
 Notes:
