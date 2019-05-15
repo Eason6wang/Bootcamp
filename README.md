@@ -1,19 +1,19 @@
 # Bootcamp
 
-The following instructions only apply to linux users
+The following instructions only apply to linux users, 如有问题请直接骚扰学长
 
 Some cheat sheets:
 
-Conda: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+- Conda: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
-jupyter: https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
+- jupyter: https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
 
 ## Python
-Open terminal, Type
+1. Open terminal and type
 ```
 python
 ```
-You should get something like
+2. You should get something like
 ```
 Python 3.7.3 (default, Mar 27 2019, 16:54:48) 
 [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
