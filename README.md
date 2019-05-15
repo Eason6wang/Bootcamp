@@ -1,8 +1,11 @@
 # Bootcamp
 
 The following instructions only apply to linux users
+
 Some cheat sheets:
+
 Conda: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+
 jupyter: https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
 
 ## Python
@@ -77,4 +80,5 @@ Highlights:
 - Shift-Enter -> run cell, select below
 - Command-S -> save
 Notes:
+
 If your kenel is stuck in the middle of the process, make sure you "Save" first then click "close and halt" under "File" tab
