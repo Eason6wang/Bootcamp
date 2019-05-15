@@ -42,7 +42,9 @@ You are good to go!
 conda create --name YOUR_ENV_NAME INITIAL_LIB
 ```
 YOUR_ENV_NAME: any name you like for your project
+
 INITIAL_LIB: any library you want in your virtual environment
+
 For example:
 ```
 conda create --name OCR python=3.6 ipython jupyter
@@ -58,7 +60,6 @@ conda deactivate
 
 ### Library
 - Install libraries
-usually
 ```
 conda install LIB=VERSION
 ```
