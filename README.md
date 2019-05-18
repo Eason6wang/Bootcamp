@@ -40,7 +40,7 @@ You are good to go!
 WHY? easy to perform version control
 - Create environment
 ```
-conda create --name YOUR_ENV_NAME INITIAL_LIB
+conda create --name YOUR_ENV_NAME INITIAL_LIB1 INITIAL_LIB2 ..
 ```
 YOUR_ENV_NAME: any name you like for your project
 
